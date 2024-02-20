@@ -10,3 +10,7 @@ ctrl + alt + u
 OsX:
 Cmd + Opt + u
 ```
+
+### 上传失败?
+
+更新下 access token https://github.com/settings/tokens
